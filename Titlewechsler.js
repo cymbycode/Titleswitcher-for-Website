@@ -1,7 +1,7 @@
 var titleIndex = 0;
 var titleString = '';
 var switchType = -1;
-var titleBase = '<<>> | Best Site | <<>> by Marvin F. (fuhrmarvin96@gmail.com) - Nzxter';
+var titleBase = '<<>> | CIƬYPvP.DΣ | <<>>';
 
 function switchTitle() {
     var currentChar = titleBase.charAt(titleIndex);
